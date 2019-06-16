@@ -1,0 +1,30 @@
+{
+	"type": "record",
+	"name": "Pixel",
+	"namespace": "com.skraba.byexample.beam.io",
+	"fields": [{
+		"name": "width",
+		"type": "int"
+	}, {
+		"name": "height",
+		"type": "int"
+	}, {
+		"name": "x",
+		"type": "int"
+	}, {
+		"name": "y",
+		"type": "int"
+	}, {
+		"name": "red",
+		"type": "int"
+	}, {
+		"name": "green",
+		"type": "int"
+	}, {
+		"name": "blue",
+		"type": "int"
+	}, {
+		"name": "alpha",
+		"type": "int"
+	}]
+}
